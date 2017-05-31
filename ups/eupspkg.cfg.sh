@@ -1,4 +1,4 @@
-_MODULE="python-swiftclient"
+_MODULE="swiftclient"
 _VERSION="3.3.0"
 
 config()
